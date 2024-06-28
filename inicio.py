@@ -1,7 +1,10 @@
 from funciones import menu
 
 def main():
-    menu()
+    op=""
+    while op!="0":
+        op=menu()
+        
     
 
 

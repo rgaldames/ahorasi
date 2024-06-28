@@ -7,7 +7,7 @@ def menu():
     print("[2] Listar Peliculas")
     print("[3] Buscar Pelicula")
     print("[0] Salir")
-    return(str(input="Ingrese Opción: "))
+    return(str(input("Ingrese Opción: ")))
 
 def ListarDiccionario(Dicionario):
     return(0)
